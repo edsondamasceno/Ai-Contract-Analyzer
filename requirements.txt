@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+openai
+sqlalchemy
+psycopg2-binary
+celery
+redis
+streamlit
+langchain
+faiss-cpu
